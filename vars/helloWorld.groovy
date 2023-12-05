@@ -1,3 +1,3 @@
 def call() {
-  sh 'hellow world statement from shared library module'
+  echo 'hellow world statement from shared library module'
 }
